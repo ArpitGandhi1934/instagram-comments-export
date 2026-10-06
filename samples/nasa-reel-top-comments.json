@@ -1,0 +1,692 @@
+[
+  {
+    "dataType": "comment",
+    "id": "comment_01",
+    "text": "People don’t realize It’s small things like this that inspire kids enough to make a career out of it. …",
+    "createdAt": "2026-09-14T00:34:18.000Z",
+    "likeCount": 164,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_01",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_02",
+    "text": "",
+    "createdAt": "2026-09-13T23:17:21.000Z",
+    "likeCount": 105,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_02",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_03",
+    "text": "Keep looking up 🇺🇸",
+    "createdAt": "2026-09-13T23:13:35.000Z",
+    "likeCount": 101,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_03",
+      "isVerified": true,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_04",
+    "text": "Thank you for blessing Pittsburgh today! …",
+    "createdAt": "2026-09-13T23:26:33.000Z",
+    "likeCount": 50,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_04",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_05",
+    "text": "T-38 is still a beautiful plane.",
+    "createdAt": "2026-09-13T23:40:39.000Z",
+    "likeCount": 21,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_05",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_06",
+    "text": "Very cool having yinz here in Pittsburgh for week 1!",
+    "createdAt": "2026-09-14T01:15:57.000Z",
+    "likeCount": 17,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_06",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_07",
+    "text": "Yaaaassss!!! …",
+    "createdAt": "2026-09-13T23:34:38.000Z",
+    "likeCount": 15,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_07",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_08",
+    "text": "So awesome! …",
+    "createdAt": "2026-09-13T23:08:02.000Z",
+    "likeCount": 15,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_08",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_09",
+    "text": "Flew over our house a few minutes after. …",
+    "createdAt": "2026-09-13T23:49:31.000Z",
+    "likeCount": 11,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_09",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_10",
+    "text": "Keep the inspiration growing! …",
+    "createdAt": "2026-09-14T00:12:22.000Z",
+    "likeCount": 10,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_10",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_11",
+    "text": "Did you also explain to them that you cut NASA’s budget by 30% to give to private companies run by your fellow Billionaires?",
+    "createdAt": "2026-09-14T03:07:10.000Z",
+    "likeCount": 9,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_11",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_12",
+    "text": "AMEN ❤️❤️❤️❤️❤️❤️",
+    "createdAt": "2026-09-13T23:31:18.000Z",
+    "likeCount": 9,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_12",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_13",
+    "text": "Hi",
+    "createdAt": "2026-09-14T02:06:13.000Z",
+    "likeCount": 8,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_13",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_14",
+    "text": "Waste of resources for spectacle 🤡",
+    "createdAt": "2026-09-13T23:24:49.000Z",
+    "likeCount": 8,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_14",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_15",
+    "text": "Quite the roar of the engines as they flew over the house, circled around, and headed towards the airport after their flyover downtown. …",
+    "createdAt": "2026-09-14T04:00:46.000Z",
+    "likeCount": 7,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_15",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_16",
+    "text": "🇺🇸",
+    "createdAt": "2026-09-14T00:39:07.000Z",
+    "likeCount": 7,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_16",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_17",
+    "text": "@user 🔥🔥 per usual",
+    "createdAt": "2026-09-13T23:36:03.000Z",
+    "likeCount": 7,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_17",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_18",
+    "text": "The only thing I would've argued was doing the flyovers in DC and NYC as well. …",
+    "createdAt": "2026-09-14T13:38:55.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_18",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_19",
+    "text": "🔥🇺🇸🚀",
+    "createdAt": "2026-09-14T06:29:06.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_19",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_20",
+    "text": "Nasa is always the best ❤️🔥",
+    "createdAt": "2026-09-14T04:27:12.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_20",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_21",
+    "text": "Steeles C 🔥🔥",
+    "createdAt": "2026-09-14T01:52:41.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_21",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_22",
+    "text": "Absolute respect and admiration! …",
+    "createdAt": "2026-09-14T00:17:14.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_22",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_23",
+    "text": "Tell us when you’re flying over Tampa for a @user game and I’ll be there just for that!",
+    "createdAt": "2026-09-14T00:00:58.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_23",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_24",
+    "text": "okay well no one told me nasa was going to be at the steelers game or i would’ve been there",
+    "createdAt": "2026-09-13T23:52:21.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_24",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_25",
+    "text": "This was awesome!",
+    "createdAt": "2026-09-13T23:51:13.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_25",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_26",
+    "text": "❤️❤️❤️❤️❤️❤️",
+    "createdAt": "2026-09-13T23:24:51.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_26",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_27",
+    "text": "❤️❤️",
+    "createdAt": "2026-09-13T23:15:17.000Z",
+    "likeCount": 6,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_27",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_28",
+    "text": "✨️🇺🇸👨🏼‍🚀🪩✨️❤️😊",
+    "createdAt": "2026-09-14T15:22:56.000Z",
+    "likeCount": 5,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_28",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_29",
+    "text": "❤️❤️❤️",
+    "createdAt": "2026-09-14T13:10:33.000Z",
+    "likeCount": 5,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_29",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  },
+  {
+    "dataType": "comment",
+    "id": "comment_30",
+    "text": "@user",
+    "createdAt": "2026-09-14T04:36:06.000Z",
+    "likeCount": 5,
+    "replyCount": null,
+    "owner": {
+      "id": null,
+      "username": "commenter_30",
+      "isVerified": false,
+      "profilePicUrl": null
+    },
+    "postId": "3985597917972217774",
+    "postCode": "DdPsDCWRT-u",
+    "postUrl": "https://www.instagram.com/reel/DdPsDCWRT-u/",
+    "postOwnerUsername": "nasaadmin",
+    "isPostOwner": false,
+    "source": {
+      "type": "post",
+      "input": "https://www.instagram.com/reel/DdPsDCWRT-u/"
+    }
+  }
+]

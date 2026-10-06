@@ -1,0 +1,5 @@
+# One Instagram URL per line: posts (/p/<code>/) or reels (/reel/<code>/). A profile URL
+# (https://www.instagram.com/<handle>/) collects comments from that profile's latest posts.
+# Lines starting with # are ignored.
+https://www.instagram.com/reel/DdPsDCWRT-u/
+https://www.instagram.com/reel/DdRyQxKteC1/
