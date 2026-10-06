@@ -90,13 +90,13 @@ def to_row(r: dict) -> dict:
 
 
 def csv_value(v, col: str):
-    """Text that starts with = + - or @ gets a leading ' so Excel and Google Sheets show it as text
-    instead of running it as a formula (comments are written by strangers)."""
+    """Text that starts with = + - @, a tab or a carriage return gets a leading ' so Excel and Google
+    Sheets show it as text instead of running it as a formula (comments are written by strangers)."""
     if v is None:
         return ""
     if isinstance(v, bool):
         return "true" if v else "false"
-    if col in ("text", "username") and isinstance(v, str) and v[:1] in ("=", "+", "-", "@"):
+    if col in ("text", "username") and isinstance(v, str) and v[:1] in ("=", "+", "-", "@", "\t", "\r"):
         return "'" + v
     return v
 

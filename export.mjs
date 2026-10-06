@@ -120,12 +120,12 @@ function toRow(r) {
 
 const isComment = (r) => 'comment_id' in r || r.dataType === 'comment' || (r.dataType == null && 'text' in r && 'owner' in r);
 
-// CSV cell. Text that starts with = + - or @ gets a leading ' so Excel and Google Sheets show it as
-// text instead of running it as a formula (comments are written by strangers).
+// CSV cell. Text that starts with = + - @, a tab or a carriage return gets a leading ' so Excel and
+// Google Sheets show it as text instead of running it as a formula (comments are written by strangers).
 function csvCell(v, col) {
     if (v == null) return '';
     let s = String(v);
-    if ((col === 'text' || col === 'username') && /^[=+\-@]/.test(s)) s = `'${s}`;
+    if ((col === 'text' || col === 'username') && /^[=+\-@\t\r]/.test(s)) s = `'${s}`;
     return /[",\n\r]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
 }
 

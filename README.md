@@ -13,7 +13,7 @@ Real output from one run on 2026-10-06: the 30 most-liked comments on a public r
 | username | text | likes | created_at |
 |---|---|---:|---|
 | commenter_01 | People don’t realize It’s small things like this that inspire kids enough to make a career out of it. … | 164 | 2026-09-14T00:34:18.000Z |
-| commenter_02 | | 105 | 2026-09-13T23:17:21.000Z |
+| commenter_02 | *(no text)* | 105 | 2026-09-13T23:17:21.000Z |
 | commenter_03 | Keep looking up 🇺🇸 | 101 | 2026-09-13T23:13:35.000Z |
 | commenter_04 | Thank you for blessing Pittsburgh today! … | 50 | 2026-09-13T23:26:33.000Z |
 | commenter_05 | T-38 is still a beautiful plane. | 21 | 2026-09-13T23:40:39.000Z |
@@ -72,7 +72,7 @@ Both scripts take the same options (`--help` prints them):
 | `--dataset ID` | Export the dataset of a run you already made in Apify Console. No new run starts | |
 | `--from FILE` | Convert a JSON or JSONL file of the Actor's rows (Console export) or of this script's rows. Needs no token | |
 
-The filters (`--sort`, `--min-likes`, `--keyword`, `--newer-than`) run inside the Actor, before billing, so you pay only for the comments that end up in your file. The CSV is UTF-8 with a BOM so Excel shows emoji and accents correctly, and a comment that starts with `=`, `+`, `-` or `@` gets a leading `'` in the CSV so a spreadsheet shows it as text instead of running it as a formula. The .xlsx stores every comment as plain text.
+The filters (`--sort`, `--min-likes`, `--keyword`, `--newer-than`) run inside the Actor, before billing, so you pay only for the comments that end up in your file. The CSV is UTF-8 with a BOM so Excel shows emoji and accents correctly, and a comment that starts with `=`, `+`, `-`, `@`, a tab or a carriage return gets a leading `'` in the CSV so a spreadsheet shows it as text instead of running it as a formula. The .xlsx stores every comment as plain text.
 
 ## Recipes
 
@@ -89,7 +89,7 @@ The filters (`--sort`, `--min-likes`, `--keyword`, `--newer-than`) run inside th
 0 8 * * * cd /path/to/instagram-comments-export && node --env-file=.env export.mjs --file posts.txt --newer-than "24 hours" --append --out comments.csv
 ```
 
-`--newer-than` makes the Actor stop reading a post at the first older comment, so a daily run costs only the new comments. `--append` skips any comment that's already in the file. A comment the run returns twice is still billed twice, so keep the window close to your schedule. To run it on Apify instead of your machine, save the input as a task in Apify Console, attach a daily Schedule, and fetch each day's result from the task's last run:
+`--newer-than` makes the Actor stop reading a post once it reaches comments older than the window, and only the new comments are billed. `--append` skips any comment that's already in the file. A comment the run returns twice is still billed twice, so keep the window close to your schedule. To run it on Apify instead of your machine, save the input as a task in Apify Console, attach a daily Schedule, and fetch each day's result from the task's last run:
 
 ```bash
 curl -s "https://api.apify.com/v2/actor-tasks/<TASK_ID>/runs/last/dataset/items?status=SUCCEEDED&format=xlsx" \
@@ -141,7 +141,7 @@ The Instagram Graph API is the right tool for comments on your own posts: it ret
 - **Public posts and reels only.** Nothing here signs in to Instagram; private accounts are never accessed.
 - **No replies.** Instagram shows replies, and how many replies a comment has, only to logged-in users, so they aren't included.
 - **Fewer rows than the post's comment count** is normal: Instagram's count includes those replies plus hidden, restricted and deleted comments.
-- Up to about 4,800 comments per post. `--sort top` picks the most-liked from up to 2,000 per post.
+- Up to about 4,800 comments per post. `--sort top`, `--min-likes` and `--keyword` read up to 2,000 comments per post (newest first) and keep the matches from those.
 
 ## Privacy
 
